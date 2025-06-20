@@ -1,0 +1,18 @@
+# Veritabanı dosyaları
+*.db
+*.db-journal
+
+# Python'a özgü dosyalar
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Oluşturulan çıktılar (kullanıcıya özel)
+*.xlsx
+*.png
+
+# IDE ve OS'e özgü dosyalar
+.vscode/
+.idea/
+*.DS_Store
