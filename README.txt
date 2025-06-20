@@ -26,7 +26,7 @@ requirements.txt dosyasında listelenen kütüphaneler (CustomTkinter, Pandas, M
 
 🔧 KURULUM
 Projeyi klonlayın veya indirin:
-git clone https://github.com/kullaniciadi/finansal_asistan.git
+git clone https://github.com/Gokturkunal/FinansalAsistan
 cd finansal_asistan
 
 Sanal ortam oluşturun (önerilir):
